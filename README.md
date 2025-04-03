@@ -2,6 +2,7 @@
 Elegoo Most Complete Starter Kit MEGA Project
 
 # Materials 
+- MEGA Controller Board
 - 9V Battery // Or Laptop
 - Bread Board
 - 2 * Jumper Wires for Battery
